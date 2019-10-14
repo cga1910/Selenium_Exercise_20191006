@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Learning the suite thing">
+
+<test name="Test_A" allow-return-values="true">
+    <classes>
+        <class name="testSuite.Test_A"></class>
+    </classes>
+</test>
+
+</suite>

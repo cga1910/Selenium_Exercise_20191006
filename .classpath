@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/selenium-java-3.141.59 (client driver)/client-combined-3.141.59.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://seleniumhq.github.io/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/libs/Selenium/selenium-java-3.141.59 (client driver)/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/selenium-java-3.141.59 (client driver)/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/selenium-java-3.141.59 (client driver)/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/selenium-java-3.141.59 (client driver)/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/selenium-java-3.141.59 (client driver)/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/poi-4.1.0/poi-4.1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://poi.apache.org/apidocs/4.1/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/libs/Selenium/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/poi-4.1.0/ooxml-lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/poi-4.1.0/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/poi-4.1.0/lib/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/libs/Selenium/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
